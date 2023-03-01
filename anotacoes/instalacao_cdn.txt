@@ -1,0 +1,11 @@
+
+		Primeiro projeto com Bootstrap
+____________________________________________________________
+
+- Instalação por meio de CDN(maneira mais fácil)
+
+- CDN é um servidor que distribui geralmente arquivos 
+estáticos em cache, carregando de maneira mais rápida no 
+nosso projeto
+
+- Há prós e contras em usar o CDN

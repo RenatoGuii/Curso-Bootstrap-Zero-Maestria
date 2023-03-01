@@ -1,0 +1,17 @@
+
+		    Novidades da Versão 5
+____________________________________________________________
+
+- O Bootstrap 5 foi uma grande revolução no framework
+
+- Temos agora ícones próprios
+
+- Novos componentes
+
+- Independência do jQuery
+
+- Melhoria nos componentes de formulário
+
+- Simplificação das classes de alguns componentes 
+
+- Facilitação e melhorias na customização
