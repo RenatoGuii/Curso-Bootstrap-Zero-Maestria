@@ -1,0 +1,11 @@
+
+		 O que vem nos arquivos do BS
+____________________________________________________________
+
+- Quando fazemos o download ou instalamos por npm, vários 
+arquivos estão disponíveis
+
+- Neles teremos arquivos mais simplificados, minificados,
+ou também com apenas alguns dos componentes
+
+- Os de JavaScript também seguem esse padrão

@@ -1,0 +1,13 @@
+
+		    Navegadores suportados
+____________________________________________________________
+
+- Nem tudo são flores, alguns navegadores não são totalmente
+suportados pelo BS
+
+- Temos que ficar atentos a isso quando o utilizamos
+
+- A compatibilidade mínima se baseia nas versões dos 
+brownsers
+
+- Checar na documentação

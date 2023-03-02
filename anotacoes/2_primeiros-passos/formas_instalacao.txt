@@ -1,0 +1,13 @@
+
+		    Formas de instalação
+____________________________________________________________
+
+- CDN: Servidor externo que detém os arquivos estáticos
+
+- Arquivos Internos: Instalamos o Bootstrap a partir de 
+arquivos no nosso servidor
+
+- npm: Gerenciador de pacote do Node.js, que pode instalar 
+o Bootstrap como depedência
+
+- Há outras formas, porém estas são as mais comuns 	
