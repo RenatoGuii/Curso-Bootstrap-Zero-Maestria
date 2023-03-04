@@ -1,0 +1,28 @@
+
+		 O que são breakpoints?
+____________________________________________________________
+
+- São pontos específicos de resolução criados através de 
+media query para deixar o site responsivo
+
+- Eles seguem um padrão que é encontrado na maioria dos 
+dispositivos
+
+- Ou seja, temos um breakpoint para tablet e outro para 
+celular
+
+- Não há para todos, mas para os mais utilizados
+
+- Lembrando que é utilizado um padrão mobile first, ou seja,
+estilização de menor resolução para maior
+
+- Os breakpoints do Bootstrap são utilizados por classes 
+como: sm, md, lg
+
+- Cada um representa uma media query
+
+- Então normalmente adequamos outros elementos do nosso site 
+a estes breakpoints
+
+- Assim é possível trabalhar com conjunto do Bootstrap e 
+deixar o site responsivo

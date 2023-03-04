@@ -1,0 +1,14 @@
+
+		       Containers
+____________________________________________________________
+
+- Containers são entidadeds super importantes do Bootstrap, 
+estruturam o layout
+
+- E como o nome diz são containers, depósitos de outros 
+elementos
+
+- Temos tipos diferentes de containers, vamos ver como 
+funcionam cada um deles
+
+- Mas o uso é o mesmo: separar o site em áreas

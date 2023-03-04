@@ -1,0 +1,11 @@
+
+		   Inserindo CSS pessoal
+____________________________________________________________
+
+- O estilo do Bootstrap pode não ser suficiente para 
+finalizar uma aplicação
+
+- Vamos linkar sempre abaixo do BS
+
+- Nossas regras precisam ter um nível de seleção pelo menos 
+igual o do BS para substituí-las

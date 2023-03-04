@@ -1,0 +1,13 @@
+
+		   Tamanho das colunas
+____________________________________________________________
+
+- Podemos ajustar o tamanho das colunas
+
+- Para ocupar três espaços: col-3
+
+- Lembrando que podemos separar em no máximo 12 divisões
+
+- E o espaço ocupado será proporcional, ou seja, em col: 
+col-11 e col-1, teremos uma coluna ocupando quase 100% da 
+largura da row

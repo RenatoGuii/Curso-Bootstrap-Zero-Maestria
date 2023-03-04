@@ -1,0 +1,12 @@
+
+		     Container Fluid
+____________________________________________________________
+
+- O Container Fluid utiliza uma área maior para abrigar os 
+elementos
+
+- Sempre representa 100% da área útil
+
+- Eliminando as margens laterais
+
+- A classe é container-fluid

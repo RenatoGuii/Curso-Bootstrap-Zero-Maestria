@@ -1,0 +1,84 @@
+.btn-secondary {
+    background-color: black;
+}
+
+.btn-secondary:hover {
+    transition: 1s;
+    background-color: white;
+    color: black;
+}
+
+.container {
+    background-color: gray;
+}
+
+.container-fluid {
+    background-color: gray;
+}
+
+/* Container Breakpoint */
+
+.container-sm {
+    border: 2px solid yellow;
+    margin-bottom: 20px;
+}
+
+.container-md {
+    border: 2px solid red;
+    margin-bottom: 20px;
+
+}
+
+.container-lg {
+    border: 2px solid purple;
+    margin-bottom: 20px;
+}
+
+/* Grid */
+.container {
+    border: 5px solid blue;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.row {
+    border: 5px dotted blue;
+    height: 100px;
+    padding: 10px;
+}
+
+.col,
+.col-4,
+.col-2,
+.col-1,
+.col-11 {
+    border: 2px dashed black;
+    height: 100%;
+    margin: 0;
+}
+
+#largura-limitada {
+    max-width: 500px;
+    margin-bottom: 300px;
+}
+
+/* SM */
+@media (min-width: 576px) {
+    .btn-secondary {
+        background-color: blue;
+    }
+}
+
+/* MD */
+@media (min-width: 768px) {
+    .btn-secondary {
+        background-color:red;
+    }
+}
+
+/* LG */
+@media (min-width: 992px) {
+    .btn-secondary {
+        background-color: yellow;
+    }
+}
