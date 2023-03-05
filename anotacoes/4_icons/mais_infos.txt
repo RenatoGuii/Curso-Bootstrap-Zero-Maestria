@@ -1,0 +1,16 @@
+
+		  O que são os ícones?
+____________________________________________________________
+
+- Os ícones são consideradas fontes, como Arial
+
+- Ou seja, vamos alterar seu tamanho com font-size e sua 
+cor com color
+
+- É um elemento inline. por causa da tag i
+
+- Então precisamos mudar o display, caso precise ser de 
+bloco
+
+- Alterando a cor de fundo, mudamos o fundo da tag, e não há 
+interação no ícone

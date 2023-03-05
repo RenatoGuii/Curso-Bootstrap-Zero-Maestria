@@ -1,0 +1,12 @@
+
+	       Limitando o número de colunas
+____________________________________________________________
+
+- Podemos também limitar a quantidade de colunas em uma row
+
+- A classe a ser utilizada é row: row-cols-*
+
+- Onde * é o número limite
+
+- Assim o grid sempre vai respeitar este número máximo na 
+linha

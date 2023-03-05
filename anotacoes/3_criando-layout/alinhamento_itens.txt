@@ -1,0 +1,12 @@
+
+		   Alinhamento de itens
+____________________________________________________________
+
+- O alinhamento de item serve para alinharmos um item 
+individualmente
+
+- Utilizamos classes como: align-self-center
+
+- Que alinha um elemento na vertical
+
+- Não há alinhamento unitário para a horizontal

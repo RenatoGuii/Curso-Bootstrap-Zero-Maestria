@@ -1,0 +1,16 @@
+
+		  Alinhamento horizontal
+____________________________________________________________
+
+- O alinhamento horizontal segue a mesma premissa do 
+vertical
+
+- Utilizamos classes no elemento pai (row) para condicionar
+os itens na linha horizontal
+
+- Para centralizar elementos podemos por a classe: 
+justify-content-center
+
+- As regras end e start também funcionam
+
+- Podemos combinar também vertical e horizontal

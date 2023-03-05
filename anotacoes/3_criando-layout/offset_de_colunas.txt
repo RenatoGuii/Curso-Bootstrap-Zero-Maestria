@@ -1,0 +1,12 @@
+
+		    Offset de colunas
+____________________________________________________________
+
+- Podemos também criar um espaçamento com offset
+
+- Ou seja, teremos uma margem da borda definida por uma 
+quantidade de colunas
+
+- Exemplo: offset-(breakpoint)-3
+
+- Neste caso temos um offset de 3 colunas a esquerda

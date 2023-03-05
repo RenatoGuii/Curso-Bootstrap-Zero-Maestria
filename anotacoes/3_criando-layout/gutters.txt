@@ -1,0 +1,17 @@
+
+			 Gutters
+____________________________________________________________
+
+- Os gutters são intervalos que podemos inserir entre as 
+colunas
+
+- É possível inserir no eixo x ou y
+
+- Exemplo: gx-2 (horizontal)
+
+- Ou: gy-4 (vertical)
+
+- Os números que utilizamos são baseados em rem da página, 
+fonte do elemento root
+
+- O número 3 é a referência para 1rem

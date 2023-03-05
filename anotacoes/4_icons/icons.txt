@@ -1,0 +1,15 @@
+
+		     Bootstrap Icons
+____________________________________________________________
+
+- Na versão 5 do Bootstrap temos disponíveis ícones em SVG 
+e de forma gratuita
+
+- São mais de 1300 atualmente
+
+- Isso nos possibilita a não depender de bibliotecas de 
+terceiros para este fim
+
+- Podemos usar com ou sem o Bootstrap
+
+- É possível instalar por npm, arquivos ou CDN

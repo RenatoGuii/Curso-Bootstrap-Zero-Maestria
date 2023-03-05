@@ -1,0 +1,12 @@
+
+		Como encontrar os ícones? 
+____________________________________________________________
+
+- Sempre vamos utilizar a documentação como referência
+
+- Buscamos o ícone necessário
+
+- Implementamos a suas classes e tag, conforme o exemplo
+
+- Depois podemos fazer as alterações necessárias para 
+inserir no projeto
