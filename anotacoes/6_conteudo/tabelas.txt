@@ -1,0 +1,11 @@
+
+			Tabelas
+____________________________________________________________
+
+- O BS também tem um componente muito interessante para 
+tabelas
+
+- Vamos estilizá-las de forma interessante
+
+- E ainda conseguimos controlar algumas propriedades de 
+cores

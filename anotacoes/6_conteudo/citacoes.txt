@@ -1,0 +1,10 @@
+
+			Citações
+____________________________________________________________
+
+- Há um componente para citações em BS
+
+- Utilizaremos a tag blockquote, que é a tag de HTML para 
+citação
+
+- Com algumas classes auxiliares do BS

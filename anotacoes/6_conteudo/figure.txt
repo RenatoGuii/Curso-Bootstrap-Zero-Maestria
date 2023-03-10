@@ -1,0 +1,11 @@
+
+			  Figure
+____________________________________________________________
+
+- A figure é uma tag utilizada para quando há a necessidade 
+de legenda para uma imagem
+
+- E o BS possui um componente que estiliza esta tag
+
+- Podemos então deixar num padrão interessante o conjunto de 
+foto + texto

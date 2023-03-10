@@ -1,0 +1,15 @@
+
+			  Display
+____________________________________________________________
+
+- As classes de display são utlizadas para aumentar os 
+headers
+
+- Utilizamos display-*, onde * é um número de 1 a 6
+
+- Lembrando que o efeito é visual, não altera SEO
+
+- Esta classe também trás uma fonte mais fina
+
+- Obs: normalmente seguimos o design do projeto, onde estas 
+classes podem não representar o tamanho correto da fonte

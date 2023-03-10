@@ -1,0 +1,10 @@
+
+			 Imagens
+____________________________________________________________
+
+- Para adicionar uma imagem de forma responsiva, podemos 
+colocar a clase img-fluid
+
+- A Imagem vai se adaptar a resoluções diferentes
+
+- A escala é referente ao elemento pai da imagem
