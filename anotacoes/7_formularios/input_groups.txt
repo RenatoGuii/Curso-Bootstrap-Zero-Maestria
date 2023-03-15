@@ -1,0 +1,10 @@
+
+		       Input Groups
+____________________________________________________________
+
+- Os inputs groups servem para darmos uma experiência 
+melhor para o usuário
+
+- Ás vezes agrupando funções
+
+- Ou tornando o input mais objetivo

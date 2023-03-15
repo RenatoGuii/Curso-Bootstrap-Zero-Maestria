@@ -1,0 +1,10 @@
+	
+			  Switch
+____________________________________________________________
+
+- O switch é um checkbox
+
+- Porém ele tem uma estilização diferente
+
+- Parecendo um botão de "on/off", bem interessante para 
+aplicações modernas

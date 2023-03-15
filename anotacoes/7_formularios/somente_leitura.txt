@@ -1,0 +1,14 @@
+
+		      Somente leitura
+____________________________________________________________
+
+- O readonly é um atributo que indica somente leitura
+
+- Temos duas formas de apresentação no BS
+
+- Atributo: colocamos o atributo readonly e o input recebe 
+os estilos do componentes
+- Classe do BS: o input fica parecendo apenas um texto
+
+Obs: readonly é uma forma de enviar os dados para o 
+servidor, já o disabled não envia!   

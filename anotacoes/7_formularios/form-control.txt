@@ -1,0 +1,14 @@
+
+		        Form Control
+____________________________________________________________
+
+- form-control é uma classe para ajustar os inputs
+
+- Fazendo com que eles fiquem no padrão do BS
+
+- Ou seja, na maioria dos inputs adicionamos esta classe
+
+- Temos variações com: form-control-*
+- Onde * pode ser sm, lg (variações de tamanho)
+
+- E a label leva a classe form-label

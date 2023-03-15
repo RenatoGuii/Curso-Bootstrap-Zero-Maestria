@@ -1,0 +1,8 @@
+
+		    Validação do HTML
+____________________________________________________________
+
+- O BS funciona bem também com a validação padrão do HTML
+
+- Onde os atributos são ultizados para dizer se um dado está 
+errado ou não

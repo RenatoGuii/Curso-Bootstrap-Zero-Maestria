@@ -1,0 +1,10 @@
+
+		      Layout com forms
+____________________________________________________________
+
+- Podemos condicionar a exibição dos inputs pelo grid de 
+colunas
+
+- Ou seja, há uma forma fácil de inserir inputs em uma linha
+
+- E também de diferentes larguras

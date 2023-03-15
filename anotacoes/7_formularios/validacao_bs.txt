@@ -1,0 +1,13 @@
+
+			Validações
+____________________________________________________________
+
+- O BS também nos dá uma possibilidade de criar validações
+
+- Vamos precisar inserir algumas classes de validação
+
+- Informar um feedback para o que está certo e o que está 
+errado
+
+- E também observar o envio do formulário, para poder ativar 
+a validação antes que isso ocorra

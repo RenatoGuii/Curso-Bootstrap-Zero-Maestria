@@ -1,0 +1,10 @@
+
+			Datalist
+____________________________________________________________
+
+- Datalist é um select, porém com busca
+
+- Então você pode inserir as opções e também encontrar 
+alguma que está cadastrada
+
+- Temos um componente no BS para este input

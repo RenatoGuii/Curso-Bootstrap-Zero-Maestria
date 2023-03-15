@@ -1,0 +1,11 @@
+
+			Formulários
+____________________________________________________________
+
+- Os formulários possuem diversos inputs no HTML
+
+- Consequentemente teremos vários componentes BS
+
+- O interessante é que temos alguns padrões que são 
+repetidos entre os componentes, tornando mais fácil o 
+aprendizado

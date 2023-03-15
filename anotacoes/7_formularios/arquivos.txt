@@ -1,0 +1,10 @@
+
+			  Arquivos
+____________________________________________________________
+
+- O input de arquivos tem uma forma diferente de receber 
+CSS, o que torna a vida dos devs mais difícil
+
+- Mas a notícia boa é o BS tem um componente para isso
+
+- Deixando o input de file mais bonito 

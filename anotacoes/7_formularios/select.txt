@@ -1,0 +1,10 @@
+
+			  Select
+____________________________________________________________
+
+- Há dois tipos de select
+
+- Valor único: usuário só pode escolher uma opção
+- Valores múltiplos: usuário pode escolher uma ou mais
+
+- O BS possui componente para os dois

@@ -1,0 +1,11 @@
+
+			  Range
+____________________________________________________________
+
+- Range é um input interessante
+
+- Onde o usuário pode regular um parâmetro por uma barra
+
+- E ainda podemos definir um valor mínimo e máximo
+
+- Temos componentes no BS para isso também

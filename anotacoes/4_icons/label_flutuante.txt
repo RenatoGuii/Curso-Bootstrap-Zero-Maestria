@@ -1,0 +1,10 @@
+
+		      Label flutuante
+____________________________________________________________
+
+- As floatings labels são uma forma de deixar a label 
+dentro do input
+
+- Semelhante aos formulários do Google
+
+- Ocupando menos espaço e deixando o layout bonito

@@ -1,0 +1,10 @@
+
+		Checkbox e radio button
+____________________________________________________________
+
+- Outros inputs bem conhecidos são:
+
+- Checkbox: onde podemos selecionar mais de uma opção
+- Radio: Selecionamos apenas uma opção
+
+- Temos componentes de BS para estes também

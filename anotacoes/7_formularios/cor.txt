@@ -1,0 +1,10 @@
+
+			    Cor
+____________________________________________________________
+
+- Há também um componente para input de cor
+
+- Teremos uma espécie de color picker bem estilizado
+
+- Este input não é muito utilizado, mas é interessante o 
+cuidado que o BS teve em incluir ele
