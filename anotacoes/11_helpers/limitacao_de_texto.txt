@@ -1,0 +1,10 @@
+
+		    Limitação de texto
+____________________________________________________________
+
+- Um helper que coloca reticências no fim do texto
+
+- Dando uma idéia de resumo, para não prejudicar o layout 
+com a quantidade de caracteres
+
+- Ideal também para funcionalidades de "Continuar lendo"

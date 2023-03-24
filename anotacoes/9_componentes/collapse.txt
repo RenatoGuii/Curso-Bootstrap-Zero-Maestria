@@ -1,0 +1,10 @@
+
+			Collapse
+____________________________________________________________
+
+- Collapse é um componente que tem duas partes
+
+- Um texto, que será exibido condicionado a um evento de 
+click em um botão
+
+- Um botão, que exibe ou esconde o texto

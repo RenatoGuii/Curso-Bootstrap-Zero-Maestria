@@ -1,0 +1,7 @@
+
+			Sombreamento
+____________________________________________________________
+
+- Também é possível aplicar sombras via classes
+
+- Há diferentes classes para diferentes intensidades

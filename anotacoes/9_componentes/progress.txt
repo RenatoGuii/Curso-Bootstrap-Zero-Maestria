@@ -1,0 +1,10 @@
+
+			 Progress
+____________________________________________________________
+
+- O Progress é um componente para barra de progresso
+
+- Que vai se completando a medida da alteração de um 
+atributo
+
+- Pode ser utilizado para loading ou upload de arquivos

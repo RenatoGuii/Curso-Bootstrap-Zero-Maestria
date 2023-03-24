@@ -1,0 +1,11 @@
+
+			    Cores
+____________________________________________________________
+
+- Assim como as cores de background, também temos as cores 
+de texto como utilities
+
+- As classes são bem parecidas também
+
+- Podemos alterar as cores dos ícones, já que estes são 
+fontes

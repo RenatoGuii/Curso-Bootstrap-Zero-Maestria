@@ -1,0 +1,9 @@
+
+			  Popover
+____________________________________________________________
+
+- O popover é um elemento que necessita da ação de um botão
+
+- Ao clicar no botão, uma área informativa aparece
+
+- Precisamos de um código JS para ativar os popovers

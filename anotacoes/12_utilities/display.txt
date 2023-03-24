@@ -1,0 +1,10 @@
+
+			  Display
+____________________________________________________________
+
+- Podemos também alterar a propriedades displas com classes
+
+- Transformar elementos de bloco para inline ou até 
+escondê-los
+
+- Tornando prática a mudança de comportamento

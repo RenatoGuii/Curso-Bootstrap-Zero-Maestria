@@ -1,0 +1,10 @@
+
+			Breadcrumb
+____________________________________________________________
+
+- Este componente serve para mostrar ao usuário o caminho 
+que já percorreu no site
+
+- Podemos mostrar as páginas principais
+
+- Desta maneira ele consegue voltar para as anteriores

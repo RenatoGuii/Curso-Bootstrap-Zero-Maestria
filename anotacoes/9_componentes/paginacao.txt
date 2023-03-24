@@ -1,0 +1,10 @@
+
+			Paginação
+____________________________________________________________
+
+- Podemos também utilizar um componente próprio para 
+paginação
+
+- Ele é o pagination
+
+- Onde há alguns recursos a mais que o group button

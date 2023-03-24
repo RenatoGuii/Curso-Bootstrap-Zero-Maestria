@@ -1,0 +1,11 @@
+
+		     Link em elemento
+____________________________________________________________
+
+- Este helper serve para deixar o elemento todo clicável
+
+- Ou seja, podemos permitir o click em todo o card, para 
+levar a um link específico
+
+- Sem esta classe envolvemos o elemento com uma tag a, o que 
+pode não ficar bom para a estética do código

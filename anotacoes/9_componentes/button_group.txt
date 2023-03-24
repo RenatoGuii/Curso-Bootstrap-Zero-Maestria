@@ -1,0 +1,10 @@
+
+		      Button Group
+____________________________________________________________
+
+- O Button Group é um agrupamento de botões
+
+- Onde podemos criar componentes como paginação
+
+- Ou se precisarmos, botão unidos que configuram algo
+

@@ -1,0 +1,10 @@
+
+		       Close Button
+____________________________________________________________
+
+- O close button é um componente de botão fechar
+
+- Porém não precisamos dos ícones instalados
+
+- O que torna uma vantagem neste sentido, caso não queremos 
+utilizar outros ícones

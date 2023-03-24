@@ -1,0 +1,10 @@
+
+			Dropdown
+____________________________________________________________
+
+- O dropdown é um componente para menu
+
+- Onde podemos colocar um botão, com um evento
+
+- Ao clicar nele, abrimos uma lista com os demais itens do 
+menu

@@ -1,0 +1,10 @@
+
+			   Ratio
+____________________________________________________________
+
+- Um helper que serve para manter a proporção de um elemento
+
+- Podemos utilizar para embed de vídeos
+
+- Desta maneira o item não vai ficar desproporcional ao seu 
+tamanho original

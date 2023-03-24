@@ -1,0 +1,13 @@
+
+			Accordion
+____________________________________________________________
+
+- O accordion é uma lista com elementos ocultos
+
+- Ao clicar no título de cada item da lista, uma descrição 
+é exibida
+
+- Enquanto isso o outro item que estava aberto, é fechado
+
+- Este componente é interessante quando precisamos poupar 
+espaço

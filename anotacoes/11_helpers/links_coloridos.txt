@@ -1,0 +1,11 @@
+
+		     Links Coloridos
+____________________________________________________________
+
+- Temos também diversas classes para estilização de links
+
+- Os nomes são parecidos com as classes do botão
+
+- Como em outros elementos com cor de BS
+
+- Exemplo> azul = primary

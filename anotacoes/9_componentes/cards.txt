@@ -1,0 +1,11 @@
+
+			   Cards
+____________________________________________________________
+
+- Os cards são componentes bem interessantes
+
+- Podemos inserir imagem, descrição e um botão de chamada
+
+- São utilizados para: produtos, avatares e outros itens
+
+- Há diversas variações também

@@ -1,0 +1,14 @@
+
+			Clearfix
+____________________________________________________________
+
+- Clearfix é uma formade resetar o float
+
+- No CSS moderno não utlizamos muito o float
+
+- Porém em algum projeto mais antigo podemos encontrar esta 
+regra
+
+- Se não utilizarmos o clear, os elementos quebram na tela
+
+- O BS nos oferece uma fácil solução para isso

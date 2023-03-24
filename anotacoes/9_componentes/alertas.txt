@@ -1,0 +1,13 @@
+
+			  Alertas
+____________________________________________________________
+
+- Os componentes de alerta servem para exibir mensagens
+
+- Temos diversas cores disponíveis, sinalizando cada ação 
+possível
+
+- Como: erros, confirmações, informações e etc
+
+- Estas mensagens são como feedbacks do sistema para o 
+usuário final

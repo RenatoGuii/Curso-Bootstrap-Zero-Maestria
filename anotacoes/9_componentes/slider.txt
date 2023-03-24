@@ -1,0 +1,10 @@
+
+			  Slider
+____________________________________________________________
+
+- Podemos criar também um slider com BS
+
+- O nome do componente é Carousel
+
+- Há recursos para passar a imagem e também para exibir a 
+quantidade delas

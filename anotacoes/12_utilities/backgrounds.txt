@@ -1,0 +1,12 @@
+
+			 Backgrounds
+____________________________________________________________
+
+- Há algumas classes no BS para adicionar cor de fundo a 
+elementos
+
+- Utilizamos a classe: bg-*
+
+- Onde * é um classe de cor, como primary
+
+- Estas cores são similares ás de botões

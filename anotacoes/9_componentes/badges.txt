@@ -1,0 +1,10 @@
+
+			   Badge
+____________________________________________________________
+
+- O componente Badge serve para exibir alguma informação ao 
+lado de texto
+
+- Como label, exemplo: produtos novos (new)
+
+- Ou notificações, com um número, exemlo: Mensagens 9

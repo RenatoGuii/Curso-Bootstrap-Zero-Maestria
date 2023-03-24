@@ -1,0 +1,14 @@
+
+		   O que são helpers?
+____________________________________________________________
+
+- Helpers geralmente são funções que servem em qualquer 
+local projeto, para algum fim específico
+
+- No BS são opções disponíveis para resolver problemas ou 
+dar variedade no nosso projeto (geralmente classes)
+
+- Exemplo: Resolver float e cores para links
+
+- São úteis para algumas situações, por isso é bom 
+conhecê-los

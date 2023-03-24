@@ -1,0 +1,10 @@
+
+			Scrollspy
+____________________________________________________________
+
+- O Scrollspy é um componente para levar a barra de 
+navegação a um local indicado
+
+- Geralmente utilizado para fixar as seções do site
+
+- Ao clicar em um botão o scroll desce

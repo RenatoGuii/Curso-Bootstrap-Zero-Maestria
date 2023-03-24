@@ -1,0 +1,13 @@
+
+		    Visually Hidden
+____________________________________________________________
+
+- Este helper serve para escopnder o conteúdo
+
+- Porém com um detalhe: ele fica acessível para motores de 
+busca e também para acessibilidade
+
+- Ou seja, podemos colocar informações importantes para 
+pessoas deficiência visual
+
+- Deixando a experiência mais rica para eles

@@ -1,0 +1,8 @@
+
+			   Textos
+____________________________________________________________
+
+- Há utilities para alteração de textos também
+
+- Configurações como: alinhamento, overflow, case e outras, 
+podem ser alteradas

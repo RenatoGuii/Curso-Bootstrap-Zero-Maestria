@@ -1,0 +1,12 @@
+
+			Offcanvas
+____________________________________________________________
+
+- Offcanvas é parecido com o Modal
+
+- Um conteúdo que fica oculto, a espera de um botão
+
+- Porém tem uma perspectiva diferente, costuma aparecer pela 
+lateral
+
+- Interessante para carrinhos de e-commerce, por exemplo

@@ -1,0 +1,11 @@
+
+			  NavBar
+____________________________________________________________
+
+- A navbar é o componente para as barras de navegação
+
+- Temos diversas variações
+
+- Podemos colocar ícones, links, dropdowns e mais
+
+

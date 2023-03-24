@@ -1,0 +1,11 @@
+
+			Espaçamentos
+____________________________________________________________
+
+- Podemos alterar o espaçamento dos elementos via classes
+
+- Ou seja, é possível alterar o padding e margin
+
+- Podemos também escolher a direção que será colocado 
+espaçamento top, right, bottom ou left
+
